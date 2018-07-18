@@ -21,7 +21,7 @@ description: >-
   KDJ-ONE の情報を有志で集めることを目的としたwikiです。<br>
   どなたでも編集していただけますが、Githubのグループに登録する必要がございます。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: " https://kdj-wiki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: esctrax
 #github_username:  jekyll
 

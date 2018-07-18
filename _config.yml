@@ -63,4 +63,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# prose.io settings
+ignore: ['_layouts', '_config.yml']
+
 

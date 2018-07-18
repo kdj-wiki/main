@@ -64,6 +64,7 @@ plugins:
 #   - vendor/ruby/
 
 # prose.io settings
-ignore: ['_layouts', '_config.yml']
+prose:
+  ignore: ['_layouts', '_config.yml']
 
 

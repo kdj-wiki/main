@@ -13,22 +13,41 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: KDJ-wiki
+email: esctrax@gmail.com
+description: >-
+  ※現在テスト中です<br>
+  <br>
+  KDJ-ONE の情報を有志で集めることを目的としたwikiです。<br>
+  どなたでも編集していただけますが、Githubのグループに登録する必要がございます。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: esctrax
+#github_username:  jekyll
+
+# for git-wiki settings
+show_downloads: false
+git_branch: master
+logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png
+google_analytics:
+theme: 
+wiki_folder: wiki
+use_github_wiki: false
+use_prose_io: true
+google_cse_token: 
+custom_head: false
+custom_sidebar: false
+custom_footer: false
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +60,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+

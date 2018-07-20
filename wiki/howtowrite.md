@@ -18,6 +18,9 @@ twitter [@esctrax](https://twitter.com/esctrax)宛にリプライもしくはダ
 "Join kdj-wiki" をクリックして認証手続きに進んで下さい。
 
 ## prose.ioを使って wiki/ 以下で.mdファイルを作成/編集する
+prose.ioは、githubアカウントで連携してgithub上のファイルを編集できるツールです。
+
+
 記事はmarkdown記法で書きます。  
 記法については下記のような記事が参考になると思います。  
 [Markdown記法 チートシート @Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)

@@ -1,3 +1,9 @@
 prose:
   ignore: ['_layouts', '_config.yml', '_sass', 'assets', '.gitignore', '404.html', 'Gemfile', 'Gemfile.lock', '_prose.yml']
   media: "wiki/media/"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+        element: "hidden"
+        value: "page"

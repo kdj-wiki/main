@@ -21,8 +21,10 @@ description: >-
   KDJ-ONE の情報を有志で集めることを目的としたwikiです。<br>
   どなたでも編集していただけますが、Githubのグループに登録する必要がございます。
 ## localで動かすときは以下コメントアウト
-baseurl: "/main" # the subpath of your site, e.g. /blog
-url: "https://kdj-wiki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/main" # the subpath of your site, e.g. /blog
+baseurl: ""
+# url: "https://kdj-wiki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kdj-wiki.esctrax.com"
 ## localで動かすときは以下コメントアウト(ここまで)
 twitter_username: esctrax
 #github_username:  jekyll

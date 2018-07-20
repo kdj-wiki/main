@@ -23,7 +23,7 @@ twitter [@esctrax](https://twitter.com/esctrax)宛にリプライもしくはダ
 [Markdown記法 チートシート @Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 ### prose.ioへのログイン
-http://prose.io を初めて使う方はここでも認証が必要です。  
+[http://prose.io](http://prose.io) を初めて使う方はここでも認証が必要です。  
 ![スクリーンショット 2018-07-19 13.14.39.png]({{site.baseurl}}/wiki/スクリーンショット 2018-07-19 13.14.39.png)
 
 このとき、Organization accessに kdj-wikiが入ってることを確認して下さい!
